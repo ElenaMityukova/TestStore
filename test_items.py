@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 from time import sleep
 
-link = "http://selenium1py.pythonanywhere.com/en-gb/catalogue/coders-at-work_207/"
+link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 
 
 def test_guest_should_see_button_add_to_basket(browser):
